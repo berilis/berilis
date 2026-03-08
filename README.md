@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Buraya logonuzun linkini ekleyin. Önerilen boyut 800x200 veya benzeri bir banner'dır -->
-  <img src="https://via.placeholder.com/800x200.png?text=Sirket+Logosu+veya+Banner" alt="Hosting Firması Banner">
+  <img src="" alt="Hosting Firması Banner">
   
   <br/>
   
@@ -25,7 +24,6 @@
 Geliştiricilerin sevdiği en güncel araçları ve dilleri destekliyor, altyapımızı bu vizyonla tasarlıyoruz.
 
 <p align="center">
-  <!-- Bu ikonları firmanızın odaklandığı teknolojilere göre güncelleyebilirsiniz. -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,nginx,nodejs,python,php,mysql,postgres,mongodb&perline=12" />
   </a>
