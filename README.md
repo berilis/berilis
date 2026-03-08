@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="Hosting Firması Banner">
+  <img src="./berilis.png" alt="Hosting Firması Banner">
   
   <br/>
   
